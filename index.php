@@ -22,11 +22,12 @@
         <label for="Numero 1">Numero 1: </label>
         <input type="text" name="Numero 1">
         <br>
+        <br>
         <label for="Numero 2">Numero 2: </label>
         <input type="text" name="Numero 2">
         <br>
         <br>
-        <br>
+        
 
         <input type="submit"> <input type="reset" value="Remover">
     </form>
