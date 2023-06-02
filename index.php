@@ -16,7 +16,6 @@
         <option value="2">Subtração</option>
         <option value="3">Multiplicação</option>
         <option value="4">Divisão</option>
-        <option value="5">Divisão inteira</option>
         </select>
         <br>
         <br>
@@ -92,18 +91,6 @@
             //Saída
             echo "<br> <br> <br>";
             echo "<h2>" .$num1. " / " .$num2. " = " .$total. "</h2>";
-        }
-        if($op == "5"){
-            //Entrada
-            $num1 = $_POST["num1"];
-            $num2 = $_POST["num2"];
-
-            //Processamento
-            $total = $num1 % $num2;
-
-            //Saída
-            echo "<br> <br> <br>";
-            echo "<h2>" .$num1. " % " .$num2. " = " .$total. "</h2>";
         }
     }
     ?>
