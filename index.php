@@ -12,10 +12,10 @@
     <form action='<?php $_SERVER["PHP_SELF"] ?>' method="post">
         <h1> Calculadora Simples </h1>
         <select id="op" name="operacao">
-        <option value="1">SOMA</option>
-        <option value="2">SUBTRAÇÃO</option>
-        <option value="3">MULTIPLICACAO</option>
-        <option value="4">DIVISAO</option>
+        <option value="1">Soma</option>
+        <option value="2">Subtração</option>
+        <option value="3">Multiplicação</option>
+        <option value="4">Divisão</option>
         </select>
         <br>
         <br>
