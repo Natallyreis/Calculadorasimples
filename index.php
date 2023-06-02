@@ -26,7 +26,7 @@
         <input type="text" name="num2">
         <br>
 
-        <input type="submit"> <input type="reset" value="remover">
+        <input type="submit"> <input type="reset" value="Remover">
     </form>
 
     <?php
