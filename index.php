@@ -19,8 +19,8 @@
         </select>
         <br>
         <br>
-        <label for="num1">Num1: </label>
-        <input type="text" name="num1">
+        <label for="Numero 1">Numero 1: </label>
+        <input type="text" name="Numero 1">
         <br>
         <label for="num2">Num2: </label>
         <input type="text" name="num2">
